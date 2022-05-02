@@ -1,3 +1,5 @@
+package Chapter2Variable;
+
 public class ContinueKeyCodeReadExample {
     public static void main(String[] args) throws Exception{
         int keyCode;

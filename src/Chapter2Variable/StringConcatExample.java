@@ -1,4 +1,6 @@
-public class StringConcatExaple {
+package Chapter2Variable;
+
+public class StringConcatExample {
     public static void main(String[] args) {
 //        문자열이 결합된다
         String str1 = "JDK" + 6.0;

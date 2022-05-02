@@ -1,3 +1,5 @@
+package Chapter2Variable;
+
 public class KeyCodeExample {
     public static void main(String[] args) throws Exception{
 //        throws Exception : 예외처리 지연처리

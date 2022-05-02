@@ -1,3 +1,5 @@
+package Chapter2Variable;
+
 import java.util.Scanner;
 
 public class ScannerExample {

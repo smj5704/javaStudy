@@ -1,3 +1,5 @@
+package Chapter2Variable;
+
 public class OperationsPromotionExample {
     public static void main(String[] args) {
 //        자동타입변환 연산

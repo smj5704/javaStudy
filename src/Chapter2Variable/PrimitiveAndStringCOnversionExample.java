@@ -1,3 +1,5 @@
+package Chapter2Variable;
+
 public class PrimitiveAndStringCOnversionExample {
     public static void main(String[] args) {
 //        문자열을 기본타입으로 형변환
