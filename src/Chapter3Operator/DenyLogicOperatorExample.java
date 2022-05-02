@@ -1,3 +1,5 @@
+package Chapter3Operator;
+
 public class DenyLogicOperatorExample {
     public static void main(String[] args) {
         boolean play = true;

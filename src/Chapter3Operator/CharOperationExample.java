@@ -1,4 +1,4 @@
-package Chapter2Variable;
+package Chapter3Operator;
 
 public class CharOperationExample {
     public static void main(String[] args) {

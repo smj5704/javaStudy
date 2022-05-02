@@ -1,3 +1,5 @@
+package Chapter3Operator;
+
 public class Chap3Quiz10 {
     public static void main(String[] args) {
 //        방법 1

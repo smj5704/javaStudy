@@ -1,3 +1,5 @@
+package Chapter3Operator;
+
 import java.util.Scanner;
 
 public class Chap3Quiz11 {
