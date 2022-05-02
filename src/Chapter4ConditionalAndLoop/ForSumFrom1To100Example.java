@@ -1,3 +1,5 @@
+package Chapter4ConditionalAndLoop;
+
 public class ForSumFrom1To100Example {
     public static void main(String[] args) {
         int sum = 0;

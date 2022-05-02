@@ -1,3 +1,5 @@
+package Chapter2Variable;
+
 public class printfExample_2 {
     //    printf()메소드 2 - 형식 문자열 (실수 , 문자열 , 특수문자)
     public static void main(String[] args) {

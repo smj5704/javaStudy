@@ -1,3 +1,5 @@
+package Chapter2Variable;
+
 public class typeChangeForce {
     public static void main(String[] args) {
         int intValue = 65;

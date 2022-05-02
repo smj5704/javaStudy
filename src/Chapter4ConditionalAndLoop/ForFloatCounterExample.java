@@ -1,3 +1,5 @@
+package Chapter4ConditionalAndLoop;
+
 public class ForFloatCounterExample {
     public static void main(String[] args) {
 //        float 타입은 정확하게 표현하기 힘들어서 9번만루프가 돌아간다

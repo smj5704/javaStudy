@@ -1,3 +1,5 @@
+package Chapter4ConditionalAndLoop;
+
 public class SwitchNoBreakCaseExample {
     public static void main(String[] args) {
 //        8~11사이에 정수 뽑기

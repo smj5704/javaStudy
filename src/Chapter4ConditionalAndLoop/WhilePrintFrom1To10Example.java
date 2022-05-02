@@ -1,3 +1,5 @@
+package Chapter4ConditionalAndLoop;
+
 public class WhilePrintFrom1To10Example {
     public static void main(String[] args) {
         int i = 1;

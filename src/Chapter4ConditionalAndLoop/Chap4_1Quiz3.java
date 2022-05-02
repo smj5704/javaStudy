@@ -1,3 +1,5 @@
+package Chapter4ConditionalAndLoop;
+
 public class Chap4_1Quiz3 {
     public static void main(String[] args) {
         int score = 85;

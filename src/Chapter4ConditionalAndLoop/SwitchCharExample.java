@@ -1,3 +1,5 @@
+package Chapter4ConditionalAndLoop;
+
 public class SwitchCharExample {
     public static void main(String[] args) {
         char grade = 'B';

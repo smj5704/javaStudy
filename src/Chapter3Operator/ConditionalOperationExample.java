@@ -1,3 +1,5 @@
+package Chapter3Operator;
+
 public class ConditionalOperationExample {
     public static void main(String[] args) {
         int score = 85;

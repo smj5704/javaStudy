@@ -1,3 +1,5 @@
+package Chapter4ConditionalAndLoop;
+
 public class IfDiceExample {
     public static void main(String[] args) {
 //        주사위 랜덤뽑기
