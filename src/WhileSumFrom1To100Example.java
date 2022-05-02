@@ -9,4 +9,5 @@ public class WhileSumFrom1To100Example {
         }
         System.out.println("1~" + (i-1) + "sum ? " + sum);
     }
+
 }
