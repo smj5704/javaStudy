@@ -1,3 +1,5 @@
+package Chapter2Variable;
+
 public class VariableExchangeExample {
     public static void main(String[] args) {
         int x = 3;

@@ -1,3 +1,5 @@
+package Chapter2Variable;
+
 public class ByteOperationExample {
     public static void main(String[] args) {
         //정수타입의 연산 시 자동타입변환.

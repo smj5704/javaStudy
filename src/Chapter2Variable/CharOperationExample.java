@@ -1,3 +1,5 @@
+package Chapter2Variable;
+
 public class CharOperationExample {
     public static void main(String[] args) {
 //        char c1 = bb로 컴파일 된다
