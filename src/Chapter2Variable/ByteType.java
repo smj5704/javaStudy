@@ -1,3 +1,5 @@
+package Chapter2Variable;
+
 public class ByteType {
     public static void main(String[] args) {
         byte var1 = -128;
